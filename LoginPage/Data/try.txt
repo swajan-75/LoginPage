@@ -1,0 +1,3 @@
+admin;pass
+nice;try
+not;yes
